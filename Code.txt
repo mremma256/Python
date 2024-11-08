@@ -1,0 +1,16 @@
+mancity =input("Predict the Mancity result:e.g., win, draw or loss: ")
+arsenal =input("Predict the Arsenal result:e.g., win, draw or loss: ")
+if mancity == 'win':
+ print("Mancity will be crowned champions")
+elif arsenal == 'loss':
+ print("Mancity will be crowned champions")
+elif mancity == 'loss':
+ print("Arsenal will be crowned champions")
+elif mancity == 'draw':
+ print("Arsenal will be crowned champions")
+elif arsenal == 'draw':
+ print("Arsenal will be crowned champions")
+else:
+ print("Error! wrong input...")
+
+#OKELLO EMMANUEL M24B13/017
